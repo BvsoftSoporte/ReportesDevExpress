@@ -55,6 +55,13 @@ namespace ReportesDevExpress
             //}
         }
 
+        /// <summary>
+        /// Validar al momento de cerrar el formulario el skin que este seleccionado
+        /// para guardarlo en la variable local, de modo que al iniciar el formulario
+        /// nuevamente, este tenga el último skin utilizado.
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void ReporteForm_FormClosing(object sender, FormClosingEventArgs e)
         {
             ///Si la Apariencia es SVG
