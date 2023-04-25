@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ReportesDevExpress.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Apariencia" Type="System.String" Scope="User">
+      <Value Profile="(Default)">The Bezier</Value>
+    </Setting>
+    <Setting Name="ColorPaleta" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Art House</Value>
+    </Setting>
+    <Setting Name="Idioma" Type="System.String" Scope="User">
+      <Value Profile="(Default)">es-DO</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
